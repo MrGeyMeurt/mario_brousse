@@ -26,7 +26,7 @@ Special thanks to those who contributed to this project:
 - Lilian.D - Project Communication
 
 ## License
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License, meaning you are free to use, modify, and distribute it.
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ## Acknowledgments
 Thanks to the collaborators and everyone who supported this student project.
