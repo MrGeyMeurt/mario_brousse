@@ -20,9 +20,9 @@ To launch the game locally:
 - Open the ```index.html``` file in your web browser. No specific environment setup is required. You can use any code editor to explore and modify the code (Visual Studio Code is recommended).
 
 ## Contributors
-- **Manu.T**: Lead Developer & Web Integration
-- **Hugo.B**: Graphic Designer & Artist
-- **Lilian.D**: Project Communication
+- **Manu.T** - Lead Developer & Web Integration
+- **Hugo.B** - Graphic Designer & Artist
+- **Lilian.D** - Project Communication
 
 ## License
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
